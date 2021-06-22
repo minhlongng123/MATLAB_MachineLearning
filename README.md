@@ -14,3 +14,6 @@ The training occurred in 6 epoches in 56 sec and ended up with high accuracy (96
 After that, one image of "scissors" is captured from the webcam for the new network to classify. And the behaviors
 of it is completely right.
 
+***Note: This code I wrote is based on the code in the following link (reference): 
+https://au.mathworks.com/help/deeplearning/ug/train-deep-learning-network-to-classify-new-images.html.
+
